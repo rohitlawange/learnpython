@@ -38,3 +38,8 @@ for i in fruits:
     print(i , 'and ', end='')
 
 print(line)
+
+print(range(3))
+
+dd,ee = range(2)
+print(dd,ee)
